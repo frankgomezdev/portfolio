@@ -1,52 +1,52 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
-  designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  githubUsername: "frankgomezdev",
+  name: "Franklin Gomez",
+  designation: "Front-End Developer",
+  avatarUrl: "/avatar2.png",
+  email: "franklingomezdev@gmail.com",
+  phone: "617-657-4948",
+  address: "Boston, MA.",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      title: "PirateBook",
+      link: "https://piratebook.netlify.app/",
+      imgUrl: "/piratebook.png",
     },
-    {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
-    },
-    {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
-    },
-    {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
-    },
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
-    },
+    // {
+    //   title: "PlaceholderTech",
+    //   link: "https://placeholdertech.in",
+    //   imgUrl: "/placeholdertech.png",
+    // },
+    // {
+    //   title: "Portfolio",
+    //   link: "https://manuarora.in",
+    //   imgUrl: "/portfolio.png",
+    // },
+    // {
+    //   title: "CovidRescue",
+    //   link: "https://covidrescue.co.in",
+    //   imgUrl: "/covidrescue.png",
+    // },
+    // {
+    //   title: "Algochurn",
+    //   link: "https://algochurn.com",
+    //   imgUrl: "/algochurn.png",
+    // },
+    // {
+    //   title: "Playground",
+    //   link: "https://play.placeholdertech.in",
+    //   imgUrl: "/playground.png",
+    // },
+    // {
+    //   title: "Feedmeback",
+    //   link: "https://feedmeback.vercel.app",
+    //   imgUrl: "/feedmeback.png",
+    // },
+    // {
+    //   title: "Devmedium",
+    //   link: "https://devmedium.vercel.app",
+    //   imgUrl: "/devmedium.png",
+    // },
   ],
   about: {
     title:
@@ -56,8 +56,8 @@ const userData = {
       `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
       `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
     ],
-    currentProject: "Tailwind Master Kit",
-    currentProjectUrl: "https://tailwindmasterkit.com",
+    currentProject: "PirateBook",
+    currentProjectUrl: "https://piratebook.netlify.app/",
   },
   experience: [
     {
@@ -106,10 +106,10 @@ const userData = {
   resumeUrl:
     "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
   socialLinks: {
-    instagram: "https://instagram.com/maninthere",
-    twitter: "https://twitter.com/mannupaaji",
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
+    instagram: "https://instagram.com/frvnk.g",
+    twitter: "https://twitter.com/frvnkthedev",
+    linkedin: "https://linkedin.com/in/fgomezj",
+    github: "https://github.com/frankgomezdev",
     facebook: "https://facebook.com/",
   },
 };
