@@ -12,11 +12,11 @@ const userData = {
       link: "https://piratebook.netlify.app/",
       imgUrl: "/piratebook.png",
     },
-    // {
-    //   title: "PlaceholderTech",
-    //   link: "https://placeholdertech.in",
-    //   imgUrl: "/placeholdertech.png",
-    // },
+    {
+      title: "QR Code Generator",
+      link: "https://qrcode-generator-rust.vercel.app/",
+      imgUrl: "/qrcode.png",
+    },
     // {
     //   title: "Portfolio",
     //   link: "https://manuarora.in",
